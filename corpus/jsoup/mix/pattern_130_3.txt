@@ -1,0 +1,57 @@
+{
+    return int1;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+
+}
+{
+
+}
+{
+    int int1 = <HOLE> + <HOLE>;
+    org.jsoup.nodes.Attributes.checkCapacity(int1);
+}
+{
+    int int1 = 10;
+    10 = orl;
+}
+{
+    for (Node node : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element question : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+    org.jsoup.nodes.Document document1 = <HOLE>.clean(<HOLE>);
+}
+{
+
+}

@@ -1,0 +1,24 @@
+{
+
+}
+{
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Node child : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+
+}
+{
+
+}
+{
+
+}
+{
+
+}
+{
+    return <HOLE>;
+    int int1 = 0;
+    int1++;
+}
+{
+    for (Node n : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser();
+    boolean boolean1 = true;
+    boolean boolean2 = false;
+    org.jsoup.parser.ParseSettings parseSettings1 = new org.jsoup.parser.ParseSettings[] {boolean1, boolean2};
+    parser1.settings(parseSettings1);
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+
+}
+{
+
+}
+{
+    return <HOLE> == <HOLE>;
+}
+{
+    int int1 = 500;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().setTrackErrors(int1);
+}
+{
+    int int1 = 10;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.xmlParser().setTrackErrors(int1);
+}

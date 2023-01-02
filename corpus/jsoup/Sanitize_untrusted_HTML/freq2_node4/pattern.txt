@@ -1,0 +1,26 @@
+{
+    org.jsoup.nodes.Document.OutputSettings outputSettings1 = new org.jsoup.nodes.Document.OutputSettings[] {};
+    boolean boolean1 = false;
+    outputSettings1.prettyPrint(boolean1);
+    org.jsoup.nodes.Entities.EscapeMode escapeMode1 = <HOLE>.<HOLE>;
+    outputSettings1.escapeMode(escapeMode1);
+    org.jsoup.nodes.Entities.EscapeMode escapeMode2 = <HOLE>.<HOLE>;
+    outputSettings1.escapeMode(escapeMode2);
+}
+{
+
+}
+{
+
+}
+{
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser();
+    boolean boolean1 = true;
+    boolean boolean2 = false;
+    org.jsoup.parser.ParseSettings parseSettings1 = new org.jsoup.parser.ParseSettings[] {boolean1, boolean2};
+    parser1.settings(parseSettings1);
+}
+{
+    org.jsoup.parser.ParseSettings parseSettings1 = org.jsoup.parser.ParseSettings.<HOLE>;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().settings(parseSettings1);
+}

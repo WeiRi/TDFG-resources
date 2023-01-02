@@ -1,0 +1,19 @@
+{
+    int int2 = int1;
+}
+{
+
+}
+{
+
+}
+{
+
+}
+{
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}

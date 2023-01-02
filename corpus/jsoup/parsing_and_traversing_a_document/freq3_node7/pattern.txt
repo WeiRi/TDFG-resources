@@ -1,0 +1,15 @@
+{
+
+}
+{
+
+}
+{
+
+}
+{
+    boolean boolean1 = false;
+}
+{
+
+}

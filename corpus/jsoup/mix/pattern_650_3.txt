@@ -1,0 +1,56 @@
+{
+    int int1 = 0;
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    <HOLE>.remove();
+}
+{
+
+}
+{
+
+}
+{
+    int int1 = 100;
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    return <HOLE>;
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    return 0;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+
+}

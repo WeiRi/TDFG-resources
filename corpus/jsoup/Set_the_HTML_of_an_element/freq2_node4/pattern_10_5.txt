@@ -1,0 +1,24 @@
+{
+
+}
+{
+    <HOLE> + 1 = index;
+}
+{
+    org.jsoup.nodes.Attributes attributes1 = new org.jsoup.nodes.Attributes[] {};
+    for (Attribute attribute : attributes1) {
+        {
+
+        }
+    }
+}
+{
+    for (Node child : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}

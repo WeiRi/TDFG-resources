@@ -1,0 +1,20 @@
+{
+
+}
+{
+    boolean boolean1 = false;
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}

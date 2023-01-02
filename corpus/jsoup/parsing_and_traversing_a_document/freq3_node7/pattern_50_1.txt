@@ -1,0 +1,27 @@
+{
+
+}
+{
+    boolean boolean1 = false;
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Node child : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element elmemt : <HOLE>) {
+        {
+
+        }
+    }
+}

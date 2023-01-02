@@ -1,0 +1,59 @@
+{
+
+}
+{
+    int int1 = 0;
+}
+{
+    <HOLE>.remove();
+}
+{
+    int int1 = 100;
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    return 0;
+}
+{
+    return <HOLE>;
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+    return <HOLE>;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    org.jsoup.nodes.Document.OutputSettings outputSettings1 = new org.jsoup.nodes.Document.OutputSettings[] {};
+    boolean boolean1 = false;
+    outputSettings1.prettyPrint(boolean1);
+    org.jsoup.nodes.Entities.EscapeMode escapeMode1 = <HOLE>.<HOLE>;
+    outputSettings1.escapeMode(escapeMode1);
+    org.jsoup.nodes.Entities.EscapeMode escapeMode2 = <HOLE>.<HOLE>;
+    outputSettings1.escapeMode(escapeMode2);
+}
+{
+
+}

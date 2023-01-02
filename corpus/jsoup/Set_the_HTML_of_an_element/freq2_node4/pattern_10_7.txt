@@ -1,0 +1,25 @@
+{
+
+}
+{
+    int int1 = 0;
+    int1++;
+    return int1;
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    return <HOLE>;
+}

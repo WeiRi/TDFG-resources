@@ -1,0 +1,18 @@
+{
+    int int1 = 0;
+    int1++;
+    int int2 = 0;
+}
+{
+
+}
+{
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}

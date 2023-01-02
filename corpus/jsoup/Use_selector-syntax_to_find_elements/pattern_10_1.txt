@@ -1,0 +1,24 @@
+{
+
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    boolean boolean1 = false;
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    org.jsoup.nodes.Document document1 = null;
+    org.jsoup.nodes.XmlDeclaration xmlDeclaration1 = null;
+}

@@ -1,0 +1,14 @@
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    org.jsoup.nodes.Document document1 = <HOLE>.clean(<HOLE>);
+}

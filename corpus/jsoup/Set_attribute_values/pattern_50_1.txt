@@ -1,0 +1,14 @@
+{
+
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    org.jsoup.nodes.Document document1 = null;
+    org.jsoup.nodes.XmlDeclaration xmlDeclaration1 = null;
+}

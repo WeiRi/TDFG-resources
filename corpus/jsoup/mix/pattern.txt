@@ -1,0 +1,57 @@
+{
+
+}
+{
+    int int1 = 0;
+}
+{
+    <HOLE>.remove();
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 0;
+    int1++;
+    int int2 = 0;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+    int int1 = 100;
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+
+}
+{
+    return 0;
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    return <HOLE>;
+}
+{
+    int int1 = 0;
+    int1++;
+}

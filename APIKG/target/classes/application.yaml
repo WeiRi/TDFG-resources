@@ -1,0 +1,6 @@
+uri: "bolt://127.0.0.1"
+username: "neo4j"
+password: "jsoup"
+projectSrcCodeDirs:
+  - "D://学习/软件所实验室/项目代码/nli2code/data/src/jsoup"
+jdkSrcCodeDir: "D://学习/软件所实验室/项目代码/nli2code/data/src/jdk"

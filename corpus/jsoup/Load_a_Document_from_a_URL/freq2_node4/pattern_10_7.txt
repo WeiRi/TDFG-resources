@@ -1,0 +1,19 @@
+{
+
+}
+{
+
+}
+{
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    org.jsoup.nodes.Document document1 = <HOLE>.clean(<HOLE>);
+}
+{
+    boolean boolean1 = false;
+}

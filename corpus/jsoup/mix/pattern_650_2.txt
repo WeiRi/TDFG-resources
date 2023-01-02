@@ -1,0 +1,56 @@
+{
+    int int1 = 0;
+}
+{
+    <HOLE>.remove();
+}
+{
+    int int1 = 0;
+    int1++;
+    int int2 = 0;
+}
+{
+
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    int int1 = 100;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    return 0;
+}
+{
+    float float1 = <HOLE> * <HOLE>;
+    float float2 = <HOLE> - <HOLE>;
+    float float3 = <HOLE> + float2 - <HOLE> * <HOLE> - <HOLE> / float1 - <HOLE>;
+}
+{
+
+}
+{
+
+}
+{
+
+}

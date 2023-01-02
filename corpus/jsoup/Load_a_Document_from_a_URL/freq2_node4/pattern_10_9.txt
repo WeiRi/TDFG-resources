@@ -1,0 +1,19 @@
+{
+
+}
+{
+    for (Element iframe : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    org.jsoup.nodes.Document document1 = <HOLE>.clean(<HOLE>);
+}
+{
+
+}
+{
+    org.jsoup.Connection.Request request1 = <HOLE>.request();
+}

@@ -1,0 +1,25 @@
+{
+
+}
+{
+    int int1 = 0;
+    int1++;
+    int int2 = 0;
+}
+{
+
+}
+{
+    for (Node n : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}

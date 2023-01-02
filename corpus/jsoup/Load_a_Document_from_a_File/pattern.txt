@@ -1,0 +1,57 @@
+{
+
+}
+{
+
+}
+{
+
+}
+{
+
+}
+{
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser();
+    boolean boolean1 = true;
+    boolean boolean2 = false;
+    org.jsoup.parser.ParseSettings parseSettings1 = new org.jsoup.parser.ParseSettings[] {boolean1, boolean2};
+    parser1.settings(parseSettings1);
+}
+{
+    for (Element template : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 5;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().setTrackErrors(int1);
+}
+{
+    int int1 = 10;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.xmlParser().setTrackErrors(int1);
+}
+{
+    org.jsoup.parser.ParseSettings parseSettings1 = org.jsoup.parser.ParseSettings.<HOLE>;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().settings(parseSettings1);
+}
+{
+    int int1 = 3;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().setTrackErrors(int1);
+}
+{
+    int int1 = 10;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().setTrackErrors(int1);
+}
+{
+    org.jsoup.parser.ParseSettings parseSettings1 = org.jsoup.parser.ParseSettings.<HOLE>;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.xmlParser().settings(parseSettings1);
+}
+{
+    int int1 = 500;
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser().setTrackErrors(int1);
+}
+{
+
+}

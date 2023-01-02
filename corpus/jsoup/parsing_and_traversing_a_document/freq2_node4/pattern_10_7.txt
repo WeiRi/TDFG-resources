@@ -1,0 +1,17 @@
+{
+
+}
+{
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 0;
+    return int1;
+}
+{
+    boolean boolean1 = false;
+}

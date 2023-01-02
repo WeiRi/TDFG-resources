@@ -1,0 +1,10 @@
+{
+
+}
+{
+    for (Element src : <HOLE>) {
+        {
+
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    int int2 = 0;
+}
+{
+    for (Element link : <HOLE>) {
+        {
+
+        }
+    }
+}

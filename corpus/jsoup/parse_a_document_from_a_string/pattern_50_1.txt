@@ -1,0 +1,27 @@
+{
+
+}
+{
+
+}
+{
+    for (Element elmemt : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}

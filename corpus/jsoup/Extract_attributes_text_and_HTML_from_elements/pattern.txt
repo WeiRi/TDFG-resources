@@ -1,0 +1,21 @@
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    return <HOLE>;
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+
+}
+{
+    for (Node n : <HOLE>) {
+        {
+
+        }
+    }
+}

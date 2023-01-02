@@ -1,0 +1,17 @@
+{
+    return int1;
+}
+{
+    for (Node child : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    int int1 = 0;
+}
+{
+    int int1 = 0;
+    int1++;
+    int int2 = 0;
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    boolean boolean1 = false;
+}
+{
+
+}

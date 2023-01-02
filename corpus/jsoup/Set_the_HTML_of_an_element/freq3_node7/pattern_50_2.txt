@@ -1,0 +1,30 @@
+{
+
+}
+{
+    org.jsoup.parser.Parser parser1 = org.jsoup.parser.Parser.htmlParser();
+    boolean boolean1 = true;
+    org.jsoup.parser.ParseSettings parseSettings1 = new org.jsoup.parser.ParseSettings[] {boolean1, <HOLE>};
+    parser1.settings(parseSettings1);
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}

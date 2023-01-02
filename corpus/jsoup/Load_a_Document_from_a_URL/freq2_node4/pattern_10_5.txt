@@ -1,0 +1,27 @@
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    int int1 = 10;
+    10 = orl;
+}
+{
+    for (Element eachElement : <HOLE>) {
+        {
+
+        }
+    }
+    for (Element element : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    org.jsoup.nodes.Element element1 = null;
+    org.jsoup.nodes.Element element2 = null;
+}
+{
+
+}

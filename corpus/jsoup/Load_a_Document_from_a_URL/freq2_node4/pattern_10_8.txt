@@ -1,0 +1,19 @@
+{
+
+}
+{
+    for (Element question : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+    int int1 = <HOLE> - <HOLE>;
+}
+{
+
+}

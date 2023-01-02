@@ -1,0 +1,57 @@
+{
+
+}
+{
+    int int1 = 0;
+}
+{
+
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    return 0;
+}
+{
+    com.github.wycm.DianpingCrawler.CssBackground cssBackground1 = null;
+    for (CssBackground c : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+
+}
+{
+
+}
+{
+
+}

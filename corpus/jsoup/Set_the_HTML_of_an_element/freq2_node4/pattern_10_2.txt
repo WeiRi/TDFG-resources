@@ -1,0 +1,19 @@
+{
+    return int1;
+}
+{
+
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}
+{
+    <HOLE> + 1 = index;
+}

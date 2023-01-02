@@ -1,0 +1,61 @@
+{
+    int int1 = 0;
+}
+{
+    int int1 = 0;
+    int1++;
+    int int2 = 0;
+}
+{
+    <HOLE>.remove();
+}
+{
+
+}
+{
+    for (Element el : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    float float1 = <HOLE> * <HOLE>;
+    float float2 = <HOLE> - <HOLE>;
+    float float3 = <HOLE> + float2 - <HOLE> * <HOLE> - <HOLE> / float1 - <HOLE>;
+}
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+    int int1 = 100;
+}
+{
+    int int1 = 0;
+    int1++;
+}
+{
+    return 0;
+}
+{
+    return <HOLE>;
+}
+{
+    org.jsoup.nodes.Document.OutputSettings outputSettings1 = new org.jsoup.nodes.Document.OutputSettings[] {};
+    boolean boolean1 = false;
+    outputSettings1.prettyPrint(boolean1);
+    org.jsoup.nodes.Entities.EscapeMode escapeMode1 = <HOLE>.<HOLE>;
+    outputSettings1.escapeMode(escapeMode1);
+    org.jsoup.nodes.Entities.EscapeMode escapeMode2 = <HOLE>.<HOLE>;
+    outputSettings1.escapeMode(escapeMode2);
+}
+{
+
+}
+{
+
+}

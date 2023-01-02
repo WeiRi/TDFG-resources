@@ -1,0 +1,25 @@
+{
+    for (Element aItem : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 0;
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = 0;
+    <HOLE> = totleSentLength;
+    int int2 = 0;
+}
+{
+
+}

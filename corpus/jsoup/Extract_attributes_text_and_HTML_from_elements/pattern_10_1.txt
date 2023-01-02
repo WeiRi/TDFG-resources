@@ -1,0 +1,23 @@
+{
+    int int1 = <HOLE>.childNodeSize();
+}
+{
+
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    for (Node node : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+
+}

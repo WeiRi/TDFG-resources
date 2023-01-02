@@ -1,0 +1,24 @@
+{
+    return int1;
+}
+{
+    for (Node child : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    int int1 = <HOLE> + <HOLE>;
+    org.jsoup.nodes.Attributes.checkCapacity(int1);
+}
+{
+
+}
+{
+    for (Element e : <HOLE>) {
+        {
+
+        }
+    }
+}

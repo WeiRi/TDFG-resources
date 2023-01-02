@@ -1,0 +1,15 @@
+{
+
+}
+{
+
+}
+{
+    int int1 = 280735;
+}
+{
+    int int1 = 269541;
+}
+{
+    boolean boolean1 = false;
+}

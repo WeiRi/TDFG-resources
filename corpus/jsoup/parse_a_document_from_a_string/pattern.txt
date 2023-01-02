@@ -1,0 +1,19 @@
+{
+
+}
+{
+    boolean boolean1 = false;
+}
+{
+
+}
+{
+    for (Element elmemt : <HOLE>) {
+        {
+
+        }
+    }
+}
+{
+    <HOLE> + 1 = index;
+}
